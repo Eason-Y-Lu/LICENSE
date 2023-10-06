@@ -17,8 +17,8 @@ d. "You" (or "Your") shall mean an individual or Legal Entity exercising permiss
 e. "Material" shall mean the work licensed under this License, which can be source code, binary code, or any other form of work. This also include articles, images, videos, and any other form of work.
 f. "Commercial Use" shall mean use of the Material for any purpose that is primarily intended for or directed toward commercial advantage or monetary compensation.
 
-2.Basic Permissions
-All rights granted under this License are granted for the term of copyright on the Material, and are irrevocable once granted.
+2.License Conditions
+a. 
 
 3.Termination
 
