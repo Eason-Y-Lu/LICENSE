@@ -4,3 +4,15 @@ Version 1.0.0
 
 Preamble
 The Profit Limiting Public License is a free license that limits the commercial use of the licensed material(s), however the license does not restrict the use of the material(s) for non-commercial purposes.
+
+TERMS AND CONDITIONS
+1. Definitions
+a. "License" shall mean the terms and conditions for use, reproduction, and distribution as defined by this document.
+b. "Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+c. "Legal Entity" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, "control" means 
+    (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or 
+    (ii) ownership of fifty percent (50%) or more of the outstanding shares, or 
+    (iii) beneficial ownership of such entity.
+d. "You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
+e. "Material" shall mean the work licensed under this License, which can be source code, binary code, or any other form of work. This also include articles, images, videos, and any other form of work.
+f. "Commercial Use" shall mean use of the Material for any purpose that is primarily intended for or directed toward commercial advantage or monetary compensation.
