@@ -21,7 +21,10 @@ f. "Commercial Use" shall mean use of the Material for any purpose that is prima
 a. 
 
 3.Termination
+This License shall terminate under the following conditions:
+a.Breach of Conditions: In the event of a breach of the conditions listed in subsection 2 of the Terms and Conditions.
+b.Request by Copyright Owner: Upon receipt of a written, electronic, or other requests bearing the physical or digital signature of the copyright owner.
 
-4.Disclaimer of Warranty
-
-5. Limitation of Liability
+4.Disclaimer of Warranty and Limitation of Liability
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
