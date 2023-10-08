@@ -1,6 +1,6 @@
 Profit Limiting Public License (PLPL)
 
-Version 1.0.0
+Version 1.0
 
 Preamble
 The Profit Limiting Public License is a free license that limits the commercial use of the licensed material(s), however the license does not restrict the use of the material(s) for non-commercial purposes.
@@ -20,7 +20,7 @@ TERMS AND CONDITIONS
 2.License Conditions
     a. Usage: You are permitted to use the materials.
     b. Modification: Modification of the materials are allowed.
-    c. Republication: Republication of the materials without modification is not allowed, except when incorporated into a larger project. In such cases, the material itself must be issued under the same license (Profit Limiting Public License, Version 1.0.0), while the larger project may be issued under a different license.
+    c. Republication: Republication of the materials without modification is not allowed, except when incorporated into a larger project. In such cases, the material itself must be issued under the same license (Profit Limiting Public License, Version 1.0), while the larger project may be issued under a different license.
     d. Profit Limitation: Making more than $2500 using the material for commercial purposes is not allowed, without the written or electronic request bearing the physical or digital signature of the copyright owner.
     e. Clause d includes project that incorporated the materials, or modification of the materials, and not just the material itself.
 
